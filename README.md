@@ -2,6 +2,22 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Before you Started:
+## install theses packages:
+### For npm
+```
+Install with npm: npm install bootstrap
+
+```
+### For yarn
+```
+Install with yarn: yarn add bootstrap
+```
+## And use cart react
+```
+npm install react-use-cart # yarn add react-use-cart
+
+```
 ## Available Scripts
 
 In the project directory, you can run:
